@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css2?family=Kode+Mono:wght@400..700&display=swap');
+
+* {
+    margin: 0 auto;
+    padding: 0;
+    background-color: rgb(24, 24, 86);
+    font-family: "Kode mono";
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 5%;
+    margin-top: 5%;
+    max-width: 20%;
+    background-color: rgba(0, 0, 148, 0.474);
+    border-radius: 5%;
+}
+
+.card {
+    background-color: rgb(24, 24, 86);
+    align-items: center;
+    border-radius: 5%;
+}
+
+.nftImage {
+    border-radius: 15px;
+    max-width: 95%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-left:8px ;
+margin: 10px 0;
+}
+
+.lineaSeparadora {
+    color: hsl(208, 206, 206, 0.11);
+}
+
+h3 {
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.ethPrice {
+    color: aqua;
+    display: flex;
+
+
+}
+
+.description {
+    color: gray;
+margin: 10px ;
+    display: inline-flex;
+
+}
+
+.daysLeft {
+    color: gray;
+    display: inline-flex;
+}
+
+small {
+    color: white;
+}

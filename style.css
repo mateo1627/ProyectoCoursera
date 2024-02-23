@@ -13,27 +13,27 @@
     align-items: center;
     justify-content: center;
     padding: 5%;
-    margin-top: 5%;
+    margin-top: 2%;
     max-width: 20%;
     background-color: hsl(216, 53%, 21%);
     border-radius: 5%;
-    box-shadow: 12px  12px 12px 12px rgba(0, 55, 255, 0.2);
+    box-shadow: 12px 12px 12px 12px rgba(0, 55, 255, 0.2);
 }
 
 .card {
     background-color: hsl(216, 53%, 21%);
     align-items: center;
     border-radius: 5%;
-    
+
 }
 
 .nftImage {
-    border-radius: 15px;
+    border-radius: 15%;
     max-width: 95%;
     display: flex;
     align-items: center;
     justify-content: center;
-    
+
 
 }
 
@@ -53,13 +53,13 @@ h3 {
     color: aqua;
     display: flex;
     background-color: hsl(216, 53%, 21%);
-    
+
 
 }
 
 .description {
     color: gray;
-margin: 10px ;
+    margin: 5%;
     display: inline-flex;
     background-color: hsl(216, 53%, 21%);
 }
@@ -67,16 +67,12 @@ margin: 10px ;
 .daysLeft {
     color: gray;
     display: inline-flex;
-    
+
 }
 
-small {
-    color: white;
-    background-color: hsl(216, 53%, 21%);
-}
-p{
-    background-color: hsl(216, 53%, 21%);
-}
+small,
+p,
 img {
+    color: white;
     background-color: hsl(216, 53%, 21%);
 }

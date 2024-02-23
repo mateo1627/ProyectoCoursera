@@ -1,0 +1,20 @@
+body {
+    background-color: hsl(216, 53%, 21%);
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    font-size: 300%;
+    color: white;
+   margin-top: 20%;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+  
